@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+*.env
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Power BI
+*.pbix.bak
+
+# General
+.DS_Store
+Thumbs.db
+*.log
