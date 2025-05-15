@@ -158,8 +158,11 @@ This project involves three core components:
 ├── README.md                               # Project description
 ```
 
+## License
+This project is licensed under the MIT License - see the (LICENSE) file for details. Portions of this project were inspired by existing open-source work, and I extend gratitude to the original authors.
+
 ## Acknowledgments
-Gratitude to the developers of TextBlob, pandas, and other open-source tools that supported this project.
+Gratitude to the developers of `TextBlob`, `pandas`, and other open-source tools that supported this project, as well as the data science community for inspiration.
 
 ---
 
