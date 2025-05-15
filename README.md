@@ -9,7 +9,6 @@ The goal of this project is to uncover trends in customer buying behavior and ev
 
 ###
 
-< align="center">
   <img src="https://github.com/RafiQamar/Customer-Purchase-Behavior-and-Sentiment-Analysis/blob/main/Ecommerce%20Dashboard.gif?raw=true" height="300" alt="IMDB Dashboard gif" />
 
 
